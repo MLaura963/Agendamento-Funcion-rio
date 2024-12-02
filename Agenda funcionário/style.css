@@ -1,0 +1,76 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+}
+
+/* Menu Lateral */
+.bg-pink {
+    background-color: #262e92;
+    height: 100vh;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link.active {
+    background-color: #6c7496;
+}
+
+/* Barra Superior */
+.btn-pink {
+    background-color: #262e92;
+    border: none;
+}
+
+.btn-pink:hover {
+    background-color: #262d9277;
+}
+
+
+.calendar-header {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.table th,
+.table td {
+    vertical-align: top;
+    height: 150px;
+}
+
+.event {
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.event.green {
+    background-color: #28a745;
+}
+
+.event.orange {
+    background-color: #fd7e14;
+}
+
+.event.blue {
+    background-color: #007bff;
+}
+
+.event.purple {
+    background-color: #6f42c1;
+}
+
+.event.red {
+    background-color: #dc3545;
+}
+
+.event.yellow {
+    background-color: #ffc107;
+}
+
